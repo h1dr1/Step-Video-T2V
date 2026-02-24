@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
-If you discover a security vulnerability, please report it by sending an email to security@example.com. All security reports will be reviewed and addressed promptly.
+If you discover a security vulnerability, please report it by submitting an advisory here in github . All security reports will be reviewed and addressed promptly.
 
 ## Security Guidelines
 - Keep software up to date.
